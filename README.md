@@ -21,6 +21,8 @@ Objectives:
 1. Download Tweets using #worldwaterday (March 22, 2021)
 2. Visualise retweet and mention networks
 
+Both 1 and 2 are executed in the R script 'worldwaterday.R'
+
 ## License
 
 All materials are licensed under a Creative Commons CC-SA license. The license allows you to copy, remix and redistribute any of our publicly available materials, under the condition that you attribute the work.
