@@ -1,4 +1,4 @@
-# Demonstration Class 01
+# Demonstration Class 01 - Visualising Twitter Networks
 
 [![Template Lifecycle](https://img.shields.io/badge/lifecycle-experimental-red.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 [![Template Version](https://img.shields.io/badge/version-2021-green.svg)]()
